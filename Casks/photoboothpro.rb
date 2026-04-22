@@ -2,8 +2,7 @@ cask "photoboothpro" do
   version "1.1.0"
   sha256 "bca0b926b2a6c59b2e1a21830c66d6c67b7327dfa7167aab2b7626a9cb746d40"
 
-  url "https://github.com/0smboy/PhotoBoothPro/releases/download/v#{version}/PhotoBoothPro-v#{version}-macOS.zip",
-      verified: "github.com/0smboy/PhotoBoothPro/"
+  url "https://github.com/0smboy/PhotoBoothPro/releases/download/v#{version}/PhotoBoothPro-v#{version}-macOS.zip"
   name "PhotoBooth Pro"
   desc "macOS photo booth with real-time Core Image filters, screen flash, video recording, and AI style transfer"
   homepage "https://github.com/0smboy/PhotoBoothPro"
