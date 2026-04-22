@@ -1,6 +1,6 @@
 cask "photoboothpro" do
   version "1.1.0"
-  sha256 "bca0b926b2a6c59b2e1a21830c66d6c67b7327dfa7167aab2b7626a9cb746d40"
+  sha256 "7e792a564785e60b93950659930ef614885aaf32a73c4ab83535727031092d01"
 
   url "https://github.com/0smboy/PhotoBoothPro/releases/download/v#{version}/PhotoBoothPro-v#{version}-macOS.zip"
   name "PhotoBooth Pro"
